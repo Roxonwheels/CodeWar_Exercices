@@ -1,2 +1,2 @@
-# CodeWar_Exercices 
+# CodeWar_Exercices #
 
