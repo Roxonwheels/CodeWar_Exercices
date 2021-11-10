@@ -1,0 +1,11 @@
+Write a function that checks if a given string (case insensitive) is a palindrome.
+
+function isPalindrome(x) {
+  let lowerCasedWord = x.toLowerCase()
+  let reversedWord = lowerCasedWord.split("").reverse().join("")
+if (lowerCasedWord === reversedWord){
+  return true
+  } else {
+  return false
+  }
+}
