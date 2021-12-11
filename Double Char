@@ -18,3 +18,4 @@ function doubleChar(str) {
   return newStr;
 };
 
+
